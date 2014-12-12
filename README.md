@@ -10,8 +10,8 @@ Surely this has to change and there should be a solution?
 ##Proposal:
 I would like to put forward a proposal to solve above problem that would elevate most of the problems we face with UX testing.
 
------------------------ _Introducing_ -----------------------
-         *CUTE (Continuous Automated UX Testing)*
+-------------------------- _Introducing_ --------------------------
+####*CUTE (Continuous Automated UX Testing)*
 -------------------------------------------------------------
 
 We will develop set of tools that will run automatically every time a developer commits code to the main repository. These tools will test the code against UX specs (format to be defined). Also these tools should be made available to UX team to further investigate any page(s) of the website for problems. Here is a quick summary of the Tools/Library we should build as minimum.
